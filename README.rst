@@ -107,7 +107,7 @@ demonstrates a number of core features of Ethereum with web3j, including:
 - Updating a value in the deployed smart contract
 - Viewing an event logged by the smart contract
 
-Check out this tuturial: [Programming Ethereum DApp in Java](http://xc.hubwiz.com/course/5b2b6e82c02e6b6a59171de2?affid=github7878).
+Check out this tuturial: `Programming Ethereum DApp in Java <http://xc.hubwiz.com/course/5b2b6e82c02e6b6a59171de2?affid=github7878>`.
 
 Getting started
 ---------------
